@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU0MzRq
-  YjdneTk5Z3k1Z3M0M3Z3YXU1b3BtMnUzYm03aGZrajZhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kg48zRB5adhzqFRagZ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU0MzRqYjdneTk5Z3k1Z3M0M3Z3YXU1b3BtMnUzYm03aGZrajZhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kg48zRB5adhzqFRagZ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
